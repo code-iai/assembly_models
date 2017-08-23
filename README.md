@@ -1,2 +1,2 @@
-# battat_models
-Repository holding mesh files for battat toys
+# assembly_models
+Repository holding mesh files of assembly parts
